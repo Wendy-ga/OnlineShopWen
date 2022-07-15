@@ -1,0 +1,1 @@
+ web: gunicorn onlineshop1:app --log-file -
